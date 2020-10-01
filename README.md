@@ -1,6 +1,6 @@
 # Java
 
-This repo contains all the source codes of Java.
+This repo contains all the source codes of Java and hackerrank problems
 
 1. It Can be used to study some aspects of Java
 2. Code snippets can be picked up from here and used elsewhere.
